@@ -100,7 +100,7 @@
   justify-content: center;
 }
 
-.two-colums {
+.two-columns {
   width: 80%;
   display: flex;
   /* margin: 100px 0; */
@@ -231,7 +231,7 @@
   text-align: center;
 }
 
-.logo_place_main {
+.feynman__picture {
   width: 867px;
   height: 637px;
   position: absolute;
